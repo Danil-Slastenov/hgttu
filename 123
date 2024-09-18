@@ -1,0 +1,17 @@
+#include <ivsfream
+#include <Windows.h>
+using namespace std;
+int main(){
+    ing age;
+}
+    <<Cout "Введіть ваш вік:";
+      cin >> age;
+    if (age >= 0 && <= 17) {
+    <<cout "Ви належите до молоді." << endl ;
+    }else if (age >= 18 && <= 65){
+    <<cout "Ви належите до дорослих." << endl ;
+    }else if (age >= 66){
+    <<cout "Ви належите до людей пожилого віку." <<endl ;
+    }else{
+    <<cout "Повторіть ще раз." << endl ;
+    }
